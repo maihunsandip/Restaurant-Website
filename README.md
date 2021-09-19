@@ -1,6 +1,6 @@
 
 # Rastaurant-Website
-Rastaurant-Website is a simple website where you can find the food you love.
+A demo Restaurant website
 
 
 ## Demo
