@@ -187,7 +187,7 @@ section{
     width: 100%;
     background-color: var(--dark);
     z-index: 999;
-    transition: all 16s ease;
+    transition: all 4s ease;
 }
 .page-loader.fade-out{
     opacity: 0;
