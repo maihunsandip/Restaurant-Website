@@ -4,7 +4,7 @@ A demo Restaurant website
 
 
 ## Demo
-Visit -- http://sandipkole.me/Restaurant-Website
+Visit -- http://maihunsandip.github.io/Restaurant-Website
 
 ![Screenshot from 2021-09-19 12-26-47](https://user-images.githubusercontent.com/72353411/133919878-29d918a0-7d0e-41a3-97e8-a13fd19348fd.png)
 
